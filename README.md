@@ -5,4 +5,5 @@ The UC Berkeley Foundations of Data Science course tool that datascience based a
 Available datasets from following links:
 
 human_freedom_index : https://www.kaggle.com/gsutters/the-human-freedom-index
+
 world_indexes : https://www.kaggle.com/joniarroba/65-world-indexes-gathered
