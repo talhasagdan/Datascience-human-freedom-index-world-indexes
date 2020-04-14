@@ -1,4 +1,4 @@
-# datascience-human-freedom-index-world-indexes
+# Datascience human freedom index world indexes
 
 The UC Berkeley Foundations of Data Science course tool that datascience based anaylse human freedom index and world index data.
 
